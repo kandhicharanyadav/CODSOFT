@@ -1,0 +1,39 @@
+Accuracy: 0.6167
+
+Classification Report:
+              precision    recall  f1-score   support
+
+      action       0.50      0.37      0.42      1314
+       adult       0.72      0.35      0.47       590
+   adventure       0.64      0.23      0.34       775
+   animation       0.54      0.10      0.17       498
+   biography       0.00      0.00      0.00       264
+      comedy       0.58      0.62      0.60      7446
+       crime       0.38      0.06      0.11       505
+ documentary       0.70      0.86      0.77     13096
+       drama       0.57      0.78      0.66     13612
+      family       0.52      0.15      0.23       783
+     fantasy       0.44      0.08      0.14       322
+   game-show       0.89      0.57      0.70       193
+     history       0.33      0.00      0.01       243
+      horror       0.68      0.64      0.66      2204
+       music       0.67      0.53      0.59       731
+     musical       0.39      0.06      0.11       276
+     mystery       0.35      0.03      0.05       318
+        news       0.68      0.10      0.18       181
+  reality-tv       0.57      0.27      0.37       883
+     romance       0.42      0.06      0.11       672
+      sci-fi       0.58      0.33      0.42       646
+       short       0.52      0.39      0.44      5072
+       sport       0.70      0.37      0.48       431
+   talk-show       0.71      0.25      0.37       391
+    thriller       0.39      0.18      0.25      1590
+         war       0.90      0.07      0.13       132
+     western       0.93      0.79      0.85      1032
+
+    accuracy                           0.62     54200
+   macro avg       0.57      0.31      0.36     54200
+weighted avg       0.60      0.62      0.59     54200
+
+
+Micro-Averaged ROC AUC Score: 0.9638
